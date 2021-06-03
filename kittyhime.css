@@ -1,0 +1,71 @@
+h1 { 
+    color:#f5c9de;
+    text-decoration: none;
+    font-family: Georgia;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 2px 2px rgb(255, 234, 242);
+}
+p { 
+    color:#e0aebf;
+    text-shadow: 1px 1px #ffe4f2;
+    padding-left: 1px;
+    padding-right: 1px;
+}
+img {
+    align-content: center;
+} 
+body {
+    background-image:url("https://i.imgur.com/JFK6WWK.png"); background-repeat: repeat;
+    cursor: url(https://i.imgur.com/u6zeEuv.png);
+}
+div {    
+    padding-left: 200px;
+    padding-right: 200px;  
+  }  
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background-color:#ffebf3;
+    -webkit-border-radius: 0px;
+    border: 1px dotted #e0aebf
+}
+a {
+    font-family: Georgia;
+    font-size: 15px; 
+    text-shadow: 1px 1px rgb(255, 234, 242);
+    color:#f5c9de;
+    padding-bottom: 78px;
+    text-decoration: none;
+}
+h3 {
+    color:#f5c9de;
+    text-decoration: none;
+    font-family: georgia;
+    font-size: 20px;
+    padding-top: 0px;
+}
+ul {
+    color:#e0aebf;
+    font-family: georgia;
+    font-size: 15px;
+    column-count: 1;
+    font-size: 15px;
+    text-shadow: 1px 1px #ffe4f2;
+}
+h4 {
+    color:#f5c9de;
+    text-decoration: none;
+    font-family: georgia;
+    font-size: 14px;
+    padding-top: 0px;
+}
+::selection {
+    text-shadow: 0 0 1px #f5c9de; color: #ffd7eb
+}
+::-moz-selection {
+    text-shadow: 0 0 1px #f5c9de; color: #ffecf3
+}
