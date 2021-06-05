@@ -36,7 +36,7 @@ div {
 }
 a {
     font-family: Georgia;
-    font-size: 15px; 
+    font-size: 12px; 
     text-shadow: 1px 1px rgb(255, 234, 242);
     color:#f5c9de;
     padding-bottom: 78px;
@@ -63,6 +63,7 @@ h4 {
     font-family: georgia;
     font-size: 12px;
     padding-top: 0px;
+    padding-bottom: 0px;
 }
 ::selection {
     text-shadow: 0 0 1px #f5c9de; color: #ffd7eb
