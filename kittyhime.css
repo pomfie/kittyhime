@@ -3,7 +3,7 @@ h1 {
     text-decoration: none;
     font-family: Georgia;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     text-shadow: 2px 2px rgb(255, 234, 242);
 }
 p { 
@@ -46,7 +46,7 @@ h3 {
     color:#f5c9de;
     text-decoration: none;
     font-family: georgia;
-    font-size: 20px;
+    font-size: 10px;
     padding-top: 0px;
 }
 ul {
@@ -61,7 +61,7 @@ h4 {
     color:#f5c9de;
     text-decoration: none;
     font-family: georgia;
-    font-size: 14px;
+    font-size: 12px;
     padding-top: 0px;
 }
 ::selection {
